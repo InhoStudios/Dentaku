@@ -1,5 +1,5 @@
 # Dentaku
-
+[![Run on Repl.it](https://repl.it/badge/github/InhoStudios/Dentaku)](https://repl.it/github/InhoStudios/Dentaku)
 Dentaku is VikingsDev's open source messenger bot.
 
 ## Setting up a development environment
